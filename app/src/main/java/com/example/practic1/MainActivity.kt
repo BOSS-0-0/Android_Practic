@@ -55,7 +55,7 @@ fun Hello(name: String?, modifier: Modifier = Modifier) {
 @Composable
 fun HelloPreviewWithName() {
     Practic1Theme {
-        Hello(name = "Мария")
+        Hello(name = "Никита")
     }
 }
 
