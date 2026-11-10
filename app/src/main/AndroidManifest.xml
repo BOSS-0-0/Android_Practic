@@ -22,6 +22,10 @@
         <activity android:name=".Practic3Activity" />
         <activity android:name=".Practic4Activity" />
         <activity android:name=".Practic5Activity" />
+        <activity android:name=".Practic6Activity" />
+        <activity android:name=".Practic7Activity" />
+        <activity android:name=".Practic8Activity" />
+        <activity android:name=".Practic10Activity" />
 
     </application>
 
